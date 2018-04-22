@@ -40,7 +40,7 @@ function liriCommand(command, query) {
 	  (query==='') ? spotify('The+Sign', 5) : spotify(query, 0);
 	  break;
 	case 'movie-this':
-	  movie(query);
+	  (query==='') ? movie('Mr.+Nobody') : movie(query);
 	  break;
 	case 'do-what-it-says':
 	  doit();
@@ -126,6 +126,7 @@ Options for <command>:
   movie-this <your-title-here>       // Search OMDB for movie 	  
   do-what-it-says                   // Reads random.txt and executes command
 `);
+
 }
 
 
