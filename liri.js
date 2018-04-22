@@ -3,7 +3,7 @@ require("dotenv").config();
 var request = require("request");
 var fs = require('fs');
 var keys = require('./keys.js');
-//var spotify = new Spotify(keys.spotify);
+var moment = require('moment');
 var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
 
@@ -31,12 +31,13 @@ liriCommand(command, query);
 
 
 function liriCommand(command, query) {
+  log('\n//// ' + moment().format('MMM-DD-YYYY HH:mm:ss') + ' ' + command + ' ' + query);
   switch(command) {
 	case 'my-tweets':
 	  tweets();
 	  break;
 	case 'spotify-this-song':
-	  (query==='') ? spotify('The+Sign') : spotify(query);
+	  (query==='') ? spotify('The+Sign', 5) : spotify(query, 0);
 	  break;
 	case 'movie-this':
 	  movie(query);
@@ -47,7 +48,7 @@ function liriCommand(command, query) {
 	case undefined:
 	  help()
 	  break;
-}
+  }
 
 }
 
@@ -55,20 +56,21 @@ function tweets() {
 	twitterClient.get('statuses/home_timeline', function(error, tweets, response) {
 		if(error) throw JSON.stringify(error);
 		var available = (tweets.length<20) ? tweets.length : 20;
-		for(var i = 0; i<available; i++) {
-			console.log(`Created at ${tweets[i].created_at}: ${tweets[i].text}`);
+		for(var i = 0; i<available; i++) {	
+		  log(`Created at ${tweets[i].created_at}: ${tweets[i].text}`);
 		}
 	});
 }
 
-function spotify(search) {
+function spotify(search, num) {
   spotifyClient.search({ type: 'track', query: search}, function(err, data) {
     if (err) throw (JSON.stringify(err));
-	var top = data.tracks.items[0];
-    console.log('Track name: ' + top.name);
-	console.log('Artist name: ' + top.artists[0].name);
-	console.log('Album name: ' + top.album.name);
-	console.log('Listen in Spotify: ' + top.external_urls.spotify);
+	var top = data.tracks.items[num];
+    log('Track name: ' + top.name);
+	log('Artist name: ' + top.artists[0].name);
+	log('Album name: ' + top.album.name);
+	log('Listen in Spotify: ' + top.external_urls.spotify);
+	//log(JSON.stringify(data.tracks, null, 2));
   });
 
 }
@@ -77,14 +79,14 @@ function movie(search) {
   var queryUrl = 'http://www.omdbapi.com/?t=' + search + '&plot=short&i=tt3896198&apikey=48075365';
   request(queryUrl, function(error, response, body) {
     if (!error && response.statusCode === 200) {
-      console.log("Title: " + JSON.parse(body).Title);
-	  console.log("Year released: " + JSON.parse(body).Year);
-	  console.log("IMDB score: " + JSON.parse(body).Ratings[0].Value);
-	  console.log("Rotten Tomatoes score: " + JSON.parse(body).Ratings[1].Value);
-	  console.log("Country where produced: " + JSON.parse(body).Country);
-	  console.log("Language: " + JSON.parse(body).Language);
-	  console.log("Plot: " + JSON.parse(body).Plot);
-	  console.log("Actors: " + JSON.parse(body).Actors); 
+      log("Title: " + JSON.parse(body).Title);
+	  log("Year released: " + JSON.parse(body).Year);
+	  log("IMDB score: " + JSON.parse(body).Ratings[0].Value);
+	  log("Rotten Tomatoes score: " + JSON.parse(body).Ratings[1].Value);
+	  log("Country where produced: " + JSON.parse(body).Country);
+	  log("Language: " + JSON.parse(body).Language);
+	  log("Plot: " + JSON.parse(body).Plot);
+	  log("Actors: " + JSON.parse(body).Actors); 
     }
 	else {
 	  console.log(error);
@@ -105,8 +107,12 @@ function doit() {
 }
 
 
-function log(data) {
-	//fs.appendFile to log.txt
+function log(message) {
+	message = ' ' + message + ',';
+    console.log(message);
+    fs.appendFile('log.txt', message, err => {
+      if(err) throw err; 
+    });
 }
 
 function help() {
