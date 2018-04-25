@@ -53,7 +53,7 @@ function liriCommand(command, query) {
 }
 
 function tweets() {
-	twitterClient.get('statuses/home_timeline', function(error, tweets, response) {
+	twitterClient.get('statuses/user_timeline', function(error, tweets, response) {
 		if(error) throw JSON.stringify(error);
 		var available = (tweets.length<20) ? tweets.length : 20;
 		for(var i = 0; i<available; i++) {	
@@ -108,7 +108,7 @@ function doit() {
 
 
 function log(message) {
-	message = ' ' + message + ',';
+	message = ' ' + message + '\n';
     console.log(message);
     fs.appendFile('log.txt', message, err => {
       if(err) throw err; 

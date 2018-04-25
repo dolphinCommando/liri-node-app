@@ -1,3 +1,152 @@
  
 //// Apr-22-2018 14:27:57 spotify-this-song , Track name: The Sign, Artist name: Ace of Base, Album name: The Sign (US Album) [Remastered], Listen in Spotify: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE, 
-//// Apr-22-2018 14:28:11 movie-this , Title: Mr. Nobody, Year released: 2009, IMDB score: 7.9/10, Rotten Tomatoes score: 66%, Country where produced: Belgium, Germany, Canada, France, USA, UK, Language: English, Mohawk, Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible., Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham,
+//// Apr-22-2018 14:28:11 movie-this , Title: Mr. Nobody, Year released: 2009, IMDB score: 7.9/10, Rotten Tomatoes score: 66%, Country where produced: Belgium, Germany, Canada, France, USA, UK, Language: English, Mohawk, Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible., Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham, 
+//// Apr-25-2018 13:12:29 undefined , 
+//// Apr-25-2018 13:12:43 my-tweets , 
+//// Apr-25-2018 13:13:01 my-tweets , 
+//// Apr-25-2018 13:13:13 do-what-it-says , 
+//// Apr-25-2018 13:13:13 spotify-this-song "I Want it That Way", 
+//// Apr-25-2018 13:13:13 spotify-this-song "Bye Bye Bye", Track name: Bye Bye Bye, Artist name: *NSYNC, Album name: No Strings Attached, Listen in Spotify: https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn, Track name: I Want It That Way, Artist name: Backstreet Boys, Album name: The Hits--Chapter One, Listen in Spotify: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6, 
+//// Apr-25-2018 13:13:46 movie-this Nosferatu, Title: Nosferatu, Year released: 1922, IMDB score: 8.0/10, Rotten Tomatoes score: 97%, Country where produced: Germany, Language: German, Plot: Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife., Actors: Max Schreck, Gustav von Wangenheim, Greta Schröder, Georg H. Schnell, 
+//// Apr-25-2018 13:13:57 my-tweets , 
+//// Apr-25-2018 13:14:36 my-tweets 
+ 
+//// Apr-25-2018 13:14:38 movie-this Nosferatu
+ Title: Nosferatu
+ Year released: 1922
+ IMDB score: 8.0/10
+ Rotten Tomatoes score: 97%
+ Country where produced: Germany
+ Language: German
+ Plot: Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife.
+ Actors: Max Schreck, Gustav von Wangenheim, Greta Schröder, Georg H. Schnell
+ 
+//// Apr-25-2018 13:14:47 do-what-it-says 
+ 
+//// Apr-25-2018 13:14:47 spotify-this-song "I Want it That Way"
+ 
+//// Apr-25-2018 13:14:47 spotify-this-song "Bye Bye Bye"
+ Track name: Bye Bye Bye
+ Artist name: *NSYNC
+ Album name: No Strings Attached
+ Listen in Spotify: https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn
+ Track name: I Want It That Way
+ Artist name: Backstreet Boys
+ Album name: The Hits--Chapter One
+ Listen in Spotify: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+ 
+//// Apr-25-2018 13:16:39 my-tweets 
+ 
+//// Apr-25-2018 13:16:50 my-tweets 
+ 
+//// Apr-25-2018 13:17:07 my-tweets 
+ Created at Sun Apr 22 04:03:02 +0000 2018: FP#1: The Fermi Paradox.
+One day over lunch at the Los Alamos Laboratory, Enrico Fermi and his friends chatted abou… https://t.co/dMEaPcslqH
+ Created at Sun Apr 22 03:48:00 +0000 2018: FP#2: X-FILES IS A DOCUMENTARY
+ALIENS HAVE BEEN VISITING US SINCE THE DAWN OF TIME AND THE GOVERNMENT ISN'T TELLING… https://t.co/4On0tIslne
+ Created at Sun Apr 22 03:43:09 +0000 2018: FP#3: Earth is hard
+Exoplanets are common. We have even found planets in habitable zones. But Earth is unique. Othe… https://t.co/TxpGZyvcnM
+ Created at Sun Apr 22 03:33:32 +0000 2018: FP#4: DNA is hard
+The chance of self-replicating chemicals creating themselves out of sheer dumb luck is astronomic… https://t.co/WDY2Pl9iZl
+ Created at Sun Apr 22 03:26:44 +0000 2018: FP#5: Multi-cellular life is hard
+Single-celled organisms, such as bacteria and extremophiles, are common. Higher l… https://t.co/HGwunPFfbK
+ Created at Sun Apr 22 03:17:42 +0000 2018: FP#6: Intelligence is hard
+Multi-cellular organisms are common, but human-intelligence is rare. Which could mean 1.… https://t.co/c9CFi58Sdd
+ Created at Sun Apr 22 03:12:35 +0000 2018: FP#7: Phase Transition
+Earth is one of the first inhabitable planets in the galaxy. The frequency of supernovae exp… https://t.co/C4vmSIcXDg
+ Created at Sun Apr 22 03:04:43 +0000 2018: FP#8: Self-destruction
+Alien civilizations at a similar technology level as us destroy themselves through nuclear w… https://t.co/MLJXJSs4jV
+ Created at Sun Apr 22 02:59:55 +0000 2018: FP#9: Cryptic Aliens
+Aliens have been trying to contact us, but we do not understand what they are saying. An intri… https://t.co/ciSkabrGlc
+ Created at Sun Apr 22 02:56:28 +0000 2018: FP#9: Silence
+Don't tell the murder-aliens where you are by blasting radio signals all over the sky. SETI actually… https://t.co/aIFvozoGNF
+ Created at Sun Apr 22 02:42:32 +0000 2018: FP#10: Galactic Backwater
+Large parts of the galaxy have already been colonized, but we are not where the action is. https://t.co/BPKvZslYb2
+ Created at Sun Apr 22 02:38:11 +0000 2018: FP#11: Too Cool for School
+Once alien civilizations reach Kardeshev 2 status, they are more than happy with their D… https://t.co/awL7amEO9Z
+ Created at Sun Apr 22 02:25:14 +0000 2018: FP#12: Self-imposed quarantine
+Either advanced civilizations are afraid of what they are capable of, or are afraid… https://t.co/cd22vtBPoe
+ Created at Sun Apr 22 02:22:08 +0000 2018: FP#13: We're Made of Meat
+"Meat. They're made out of meat."
+"Meat?"
+"There's no doubt about it. We picked up severa… https://t.co/OZaSlcsgwc
+ Created at Sun Apr 22 02:17:46 +0000 2018: FP#14: Rim Migration
+Computerized civilizations run faster in the cooler temperatures of the Outer Rim of our Galax… https://t.co/hliXGQfjTm
+ Created at Sun Apr 22 02:15:37 +0000 2018: FP#15: Sleeping Giants
+Post-singularity civilizations "sleep" for a trillion years until temperatures are colder an… https://t.co/la2tThFsPx
+ Created at Sun Apr 22 02:11:28 +0000 2018: FP#16: Zoo Hypothesis
+Many interstellar civilizations exists, and they have all agreed to a Prime Directive wherein… https://t.co/mVDpck6C9I
+ Created at Sun Apr 22 02:07:28 +0000 2018: FP#17: Ascension
+Advanced alien species have the technology to leave our universe behind. https://t.co/ag6CKwSXGD
+ Created at Sun Apr 22 02:00:05 +0000 2018: FP#18: Super Predator AKA Whack-A-Mole
+A highly advanced alien civilization exterminates emerging species once they… https://t.co/l23wnrDq6y
+ Created at Sun Apr 22 01:54:14 +0000 2018: FP#19: We are living in a simulation. https://t.co/8H3nehIhjF
+ 
+//// Apr-25-2018 13:18:29 undefined 
+ 
+//// Apr-25-2018 13:18:49 spotify-this-song Number+of+the+Beast
+ Track name: The Number Of The Beast - 1998 Remastered Version
+ Artist name: Iron Maiden
+ Album name: The Number of the Beast (1998 Remastered Version)
+ Listen in Spotify: https://open.spotify.com/track/0mfbspA6GdxREXA2rCvoyp
+ 
+//// Apr-25-2018 13:18:59 spotify-this-son 
+ 
+//// Apr-25-2018 13:19:03 spotify-this-song 
+ Track name: The Sign
+ Artist name: Ace of Base
+ Album name: The Sign (US Album) [Remastered]
+ Listen in Spotify: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+ 
+//// Apr-25-2018 13:19:24 movie-this 
+ Title: Mr. Nobody
+ Year released: 2009
+ IMDB score: 7.9/10
+ Rotten Tomatoes score: 66%
+ Country where produced: Belgium, Germany, Canada, France, USA, UK
+ Language: English, Mohawk
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ 
+//// Apr-25-2018 13:20:19 my-tweets 
+ Created at Sun Apr 22 04:03:02 +0000 2018: FP#1: The Fermi Paradox.
+One day over lunch at the Los Alamos Laboratory, Enrico Fermi and his friends chatted abou… https://t.co/dMEaPcslqH
+ Created at Sun Apr 22 03:48:00 +0000 2018: FP#2: X-FILES IS A DOCUMENTARY
+ALIENS HAVE BEEN VISITING US SINCE THE DAWN OF TIME AND THE GOVERNMENT ISN'T TELLING… https://t.co/4On0tIslne
+ Created at Sun Apr 22 03:43:09 +0000 2018: FP#3: Earth is hard
+Exoplanets are common. We have even found planets in habitable zones. But Earth is unique. Othe… https://t.co/TxpGZyvcnM
+ Created at Sun Apr 22 03:33:32 +0000 2018: FP#4: DNA is hard
+The chance of self-replicating chemicals creating themselves out of sheer dumb luck is astronomic… https://t.co/WDY2Pl9iZl
+ Created at Sun Apr 22 03:26:44 +0000 2018: FP#5: Multi-cellular life is hard
+Single-celled organisms, such as bacteria and extremophiles, are common. Higher l… https://t.co/HGwunPFfbK
+ Created at Sun Apr 22 03:17:42 +0000 2018: FP#6: Intelligence is hard
+Multi-cellular organisms are common, but human-intelligence is rare. Which could mean 1.… https://t.co/c9CFi58Sdd
+ Created at Sun Apr 22 03:12:35 +0000 2018: FP#7: Phase Transition
+Earth is one of the first inhabitable planets in the galaxy. The frequency of supernovae exp… https://t.co/C4vmSIcXDg
+ Created at Sun Apr 22 03:04:43 +0000 2018: FP#8: Self-destruction
+Alien civilizations at a similar technology level as us destroy themselves through nuclear w… https://t.co/MLJXJSs4jV
+ Created at Sun Apr 22 02:59:55 +0000 2018: FP#9: Cryptic Aliens
+Aliens have been trying to contact us, but we do not understand what they are saying. An intri… https://t.co/ciSkabrGlc
+ Created at Sun Apr 22 02:56:28 +0000 2018: FP#9: Silence
+Don't tell the murder-aliens where you are by blasting radio signals all over the sky. SETI actually… https://t.co/aIFvozoGNF
+ Created at Sun Apr 22 02:42:32 +0000 2018: FP#10: Galactic Backwater
+Large parts of the galaxy have already been colonized, but we are not where the action is. https://t.co/BPKvZslYb2
+ Created at Sun Apr 22 02:38:11 +0000 2018: FP#11: Too Cool for School
+Once alien civilizations reach Kardeshev 2 status, they are more than happy with their D… https://t.co/awL7amEO9Z
+ Created at Sun Apr 22 02:25:14 +0000 2018: FP#12: Self-imposed quarantine
+Either advanced civilizations are afraid of what they are capable of, or are afraid… https://t.co/cd22vtBPoe
+ Created at Sun Apr 22 02:22:08 +0000 2018: FP#13: We're Made of Meat
+"Meat. They're made out of meat."
+"Meat?"
+"There's no doubt about it. We picked up severa… https://t.co/OZaSlcsgwc
+ Created at Sun Apr 22 02:17:46 +0000 2018: FP#14: Rim Migration
+Computerized civilizations run faster in the cooler temperatures of the Outer Rim of our Galax… https://t.co/hliXGQfjTm
+ Created at Sun Apr 22 02:15:37 +0000 2018: FP#15: Sleeping Giants
+Post-singularity civilizations "sleep" for a trillion years until temperatures are colder an… https://t.co/la2tThFsPx
+ Created at Sun Apr 22 02:11:28 +0000 2018: FP#16: Zoo Hypothesis
+Many interstellar civilizations exists, and they have all agreed to a Prime Directive wherein… https://t.co/mVDpck6C9I
+ Created at Sun Apr 22 02:07:28 +0000 2018: FP#17: Ascension
+Advanced alien species have the technology to leave our universe behind. https://t.co/ag6CKwSXGD
+ Created at Sun Apr 22 02:00:05 +0000 2018: FP#18: Super Predator AKA Whack-A-Mole
+A highly advanced alien civilization exterminates emerging species once they… https://t.co/l23wnrDq6y
+ Created at Sun Apr 22 01:54:14 +0000 2018: FP#19: We are living in a simulation. https://t.co/8H3nehIhjF
